@@ -1,0 +1,11 @@
+{
+	"galaxy.meteor.com": {
+		"env": {
+			"MONGO_URL": "mongodb://ec2-54-249-15-247.ap-northeast-1.compute.amazonaws.com:27017/AllBuy",
+			"MONGO_OPLOG_URL":
+				"mongodb://ec2-54-249-15-247.ap-northeast-1.compute.amazonaws.com:27017/local?authSource=AllBuy"
+		}
+	},
+	"public": {},
+	"private": {}
+}
